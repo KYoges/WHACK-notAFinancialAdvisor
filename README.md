@@ -34,3 +34,9 @@ We have ideated and create a tool, powered by Fetch.ai, which helps people learn
 -	Developing our own agent network to build more interconnected platforms.
 -	Integrate a chatbot which is well versed in financial literature to converse with the user and answer their enquiries.
 
+## Contributors
+- Kishor Yogeswaran
+- Sameer Khan
+- Demir Khan
+- Viraj Gupta
+
