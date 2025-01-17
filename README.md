@@ -2,7 +2,7 @@
  Codebase for the notAFinancialAdvisor project for Warwick HACK
 
 ## Inspiration
-As a team of four computer science students, we're driven by the transformative potential of blockchain and cryptocurrency to reshape and decentralize the global economy. We see a future where decentralization not only empowers individuals but also redefines traditional finance, making it more accessible, transparent, and equitable for everyone.
+As a team of four computer science students, we're driven by the transformative potential of blockchain and cryptocurrency to reshape and decentralise the global economy. We see a future where decentralisation not only empowers individuals but also redefines traditional finance, making it more accessible, transparent, and equitable for everyone.
 Our goal is to develop a platform that offers comprehensive and user-friendly insights into the cryptocurrency market, tailored especially for newcomers and curious investors. By leveraging cutting-edge technologies, we aim to demystify the complexities of the crypto world, enabling users to make informed decisions and engage with the blockchain ecosystem confidently. With our combined knowledge and enthusiasm, we're committed to building a tool that bridges the gap between innovation and accessibility in the crypto space.
 ## What it does
 We have ideated and create a tool, powered by Fetch.ai, which helps people learn about crypto and make better informed decisions using a wide range of user generated content which is sorted and analysed to be more easily understood by the consumer.
